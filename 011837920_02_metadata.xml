@@ -1,0 +1,89 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:MODS="http://www.loc.gov/mods/v3"><dmdSec ID="MODSMD">
+    <mdWrap LABEL="Bibliographic meta-data of the printed version" MDTYPE="MODS" MIMETYPE="text/xml">
+      <xmlData>
+        <MODS:mods version="3.1">
+          <MODS:titleInfo>
+            <MODS:title>Life in the Mofussil, or, The civilian in Lower Bengal</MODS:title>
+          </MODS:titleInfo>
+          <MODS:titleInfo type="alternative">
+            <MODS:title>Civilian in Lower Bengal</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name type="personal">
+            <MODS:namePart>Graham, George.</MODS:namePart>
+            <MODS:role>
+              <MODS:roleTerm authority="marcrelator" type="text">creator</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:typeOfResource>text</MODS:typeOfResource>
+          <MODS:genre authority="marc">biography</MODS:genre>
+          <MODS:originInfo>
+            <MODS:place>
+              <MODS:placeTerm authority="marccountry" type="code">enk</MODS:placeTerm>
+            </MODS:place>
+            <MODS:place>
+              <MODS:placeTerm type="text">London</MODS:placeTerm>
+            </MODS:place>
+            <MODS:publisher>Kegan Paul</MODS:publisher>
+            <MODS:dateIssued>1878</MODS:dateIssued>
+            <MODS:issuance>monographic</MODS:issuance>
+          </MODS:originInfo>
+          <MODS:language>
+            <MODS:languageTerm authority="iso639-2b" type="code">eng</MODS:languageTerm>
+          </MODS:language>
+          <MODS:physicalDescription>
+            <MODS:extent>2 v. ; 20 cm.</MODS:extent>
+          </MODS:physicalDescription>
+          <MODS:note type="statement of responsibility">by an ex-civilian [i.e. George Graham].</MODS:note>
+          <MODS:subject>
+            <MODS:name type="personal">
+              <MODS:namePart>Graham, George</MODS:namePart>
+            </MODS:name>
+          </MODS:subject>
+          <MODS:subject authority="lcsh">
+            <MODS:topic>Colonial administrators</MODS:topic>
+            <MODS:geographic>India</MODS:geographic>
+            <MODS:geographic>Bengal</MODS:geographic>
+            <MODS:topic>Biography</MODS:topic>
+          </MODS:subject>
+          <MODS:subject authority="lcsh">
+            <MODS:topic>British</MODS:topic>
+            <MODS:geographic>India</MODS:geographic>
+            <MODS:geographic>Bengal</MODS:geographic>
+            <MODS:topic>Biography</MODS:topic>
+          </MODS:subject>
+          <MODS:subject authority="lcsh">
+            <MODS:topic>Colonial administrators</MODS:topic>
+            <MODS:geographic>Great Britain</MODS:geographic>
+            <MODS:topic>Biography</MODS:topic>
+          </MODS:subject>
+          <MODS:subject authority="lcsh">
+            <MODS:geographic>Bengal (India)</MODS:geographic>
+            <MODS:topic>Description and travel</MODS:topic>
+          </MODS:subject>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 10058.bb.3.</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library OC T 43248</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library OC T 37825</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library DSC B.29.c.7</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library DSC B.29.c.8</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:recordInfo>
+            <MODS:recordContentSource authority="marcorg">Uk</MODS:recordContentSource>
+            <MODS:recordCreationDate encoding="w3cdtf">1986-11-12</MODS:recordCreationDate>
+            <MODS:recordChangeDate encoding="iso8601">20051206101651.0</MODS:recordChangeDate>
+            <MODS:recordIdentifier source="Uk">011837920</MODS:recordIdentifier>
+          </MODS:recordInfo>
+          <MODS:accessCondition type="Copyright Status">Out of Copyright</MODS:accessCondition>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  </mets>
