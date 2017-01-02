@@ -1,3 +1,7 @@
+---
+layout: default
+title: Life in the Mofussil, or, The civilian in Lower Bengal (Volume 2)
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
